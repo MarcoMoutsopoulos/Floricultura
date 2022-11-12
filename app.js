@@ -16,8 +16,7 @@ servidor.get('/', (req, res)=>{
 
 servidor.get('/carrinho',(req, res)=>{
     return res.sendFile(__dirname + "/views/carrinho.html");
-})
-
+});
 
 
 // 4 - Por o servidor no modo "aguardando requisição"
