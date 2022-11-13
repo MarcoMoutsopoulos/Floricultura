@@ -1,4 +1,5 @@
 Lembrar de instalar o EXPRESS - "npm install express -g"
-Ainda não coloquei CSS.
-e só um esboço rapido pra começar a esquentar.
-Pra testar é só clicar no arquivo index.html
+Um pouquinho de CSS no Header.
+Tentando por fotos em paralelo.
+Testar programa usando node app.js ( no vsCode)
+e colocar no navegador ->  localhost:3000
